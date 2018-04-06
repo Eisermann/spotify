@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import requests
 
 from credentials import CLIENT_ID, CLIENT_SECRET

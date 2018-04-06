@@ -22,5 +22,5 @@ source spotify/bin/active
 ```
 ### Run application
 ```
-python main.py
+./main.py
 ```
