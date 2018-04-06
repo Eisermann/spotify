@@ -1,0 +1,5 @@
+spotify/
+__pycache__/
+.idea/
+credentials.py
+.DS_Store
